@@ -11,10 +11,18 @@ body{
 }
     .line-name{
     background: blue;
-    text-color: white;
+    text-decoration-color: white;
     padding: 45px;
 }
 
 .express{
     background: orange;
+}
+
+li{
+    padding: 45px;
+    border-bottom: 45px;
+} 
+.corners{
+    border-radius: 3px;
 }
